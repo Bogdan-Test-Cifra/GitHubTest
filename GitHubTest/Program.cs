@@ -24,6 +24,8 @@
                 }
                 Console.WriteLine();
             }
+
+            Console.WriteLine("Массив создан");
         }
     }
 }
